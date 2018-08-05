@@ -1,31 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,description_json,main_json,star1_json,star1_png,line_json,piece_bg_png,piece_bg_se_png,pause2_png,jixu_png,game_num_0_png,game_num_fnt,zimuFNT_0_png,zimuFNT_fnt,777number_0_png,777number_fnt,time_fnt,time_png,Bnumber_0_png,Bnumber_fnt,game_data_json,book_bg_png,btn_back_png,frame3_png,back_png,music2_off_png,music1_off_png,info_png,music2_png,music1_png,pause_png,timebg_png,home_png,restart_png,home1_png,facebook_png,close_png,title_fnt,title_png,bg_mp3,dialog_mp3,bomb_wav,in_mp3,title2_fnt,title2_png",
+			"keys": "selected_png,border_png,header_png,roundthumb_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,description_json,main_json,star1_json,star1_png,line_json,piece_bg_png,piece_bg_se_png,game_num_0_png,game_num_fnt,777number_0_png,777number_fnt,time_fnt,time_png,Bnumber_0_png,Bnumber_fnt,game_data_json,book_bg_png,btn_back_png,frame3_png,back_png,music2_off_png,music1_off_png,info_png,music2_png,music1_png,pause_png,timebg_png,home_png,restart_png,home1_png,facebook_png,close_png,title_fnt,title_png,bg_mp3,dialog_mp3,bomb_wav,in_mp3,title2_fnt,title2_png",
 			"name": "preload"
 		}
 	],
 	"resources": [
-		{
-			"url": "assets/CheckBox/checkbox_select_disabled.png",
-			"type": "image",
-			"name": "checkbox_select_disabled_png"
-		},
-		{
-			"url": "assets/CheckBox/checkbox_select_down.png",
-			"type": "image",
-			"name": "checkbox_select_down_png"
-		},
-		{
-			"url": "assets/CheckBox/checkbox_select_up.png",
-			"type": "image",
-			"name": "checkbox_select_up_png"
-		},
-		{
-			"url": "assets/CheckBox/checkbox_unselect.png",
-			"type": "image",
-			"name": "checkbox_unselect_png"
-		},
 		{
 			"url": "assets/ItemRenderer/selected.png",
 			"type": "image",
@@ -42,59 +22,9 @@
 			"name": "header_png"
 		},
 		{
-			"url": "assets/RadioButton/radiobutton_select_disabled.png",
-			"type": "image",
-			"name": "radiobutton_select_disabled_png"
-		},
-		{
-			"url": "assets/RadioButton/radiobutton_select_down.png",
-			"type": "image",
-			"name": "radiobutton_select_down_png"
-		},
-		{
-			"url": "assets/RadioButton/radiobutton_select_up.png",
-			"type": "image",
-			"name": "radiobutton_select_up_png"
-		},
-		{
-			"url": "assets/RadioButton/radiobutton_unselect.png",
-			"type": "image",
-			"name": "radiobutton_unselect_png"
-		},
-		{
 			"url": "assets/ScrollBar/roundthumb.png",
 			"type": "image",
 			"name": "roundthumb_png"
-		},
-		{
-			"url": "assets/Slider/thumb.png",
-			"type": "image",
-			"name": "thumb_png"
-		},
-		{
-			"url": "assets/Slider/track.png",
-			"type": "image",
-			"name": "track_png"
-		},
-		{
-			"url": "assets/Slider/tracklight.png",
-			"type": "image",
-			"name": "tracklight_png"
-		},
-		{
-			"url": "assets/ToggleSwitch/handle.png",
-			"type": "image",
-			"name": "handle_png"
-		},
-		{
-			"url": "assets/ToggleSwitch/off.png",
-			"type": "image",
-			"name": "off_png"
-		},
-		{
-			"url": "assets/ToggleSwitch/on.png",
-			"type": "image",
-			"name": "on_png"
 		},
 		{
 			"url": "assets/Button/button_down.png",
@@ -163,16 +93,6 @@
 			"url": "assets/piece_bg_se.png"
 		},
 		{
-			"name": "pause2_png",
-			"type": "image",
-			"url": "assets/pause2.png"
-		},
-		{
-			"name": "jixu_png",
-			"type": "image",
-			"url": "assets/jixu.png"
-		},
-		{
 			"name": "game_num_0_png",
 			"type": "image",
 			"url": "assets/game_num_0.png"
@@ -181,16 +101,6 @@
 			"name": "game_num_fnt",
 			"type": "font",
 			"url": "assets/game_num.fnt"
-		},
-		{
-			"name": "zimuFNT_0_png",
-			"type": "image",
-			"url": "assets/zimuFNT_0.png"
-		},
-		{
-			"name": "zimuFNT_fnt",
-			"type": "font",
-			"url": "assets/zimuFNT.fnt"
 		},
 		{
 			"name": "777number_0_png",
