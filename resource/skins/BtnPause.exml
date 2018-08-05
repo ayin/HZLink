@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="skins.ButtonSkin" states="up,down,disabled" height="60" width="60" xmlns:e="http://ns.egret.com/eui">
+    <e:Image width="100%" height="100%" source="pause_png" source.down="pause1_png" />
+</e:Skin>
